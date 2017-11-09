@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cannabisys.com/jpos-cannapos-project/cannapos-a-jpos-fork-on-github/
+  http://cannabisys.com/hello-fellow-cannabis-industry-entrepreneurs/jpos-cannapos-project/cannapos-a-jpos-fork-on-github/
 published: true
 post_date: 2017-11-09 06:20:56
 ---
